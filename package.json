@@ -1,0 +1,37 @@
+{
+  "name": "startup-weekend-na-visao-de-um-desenvolvedor",
+  "version": "1.0.0",
+  "description": "Palestra realizada no dia 28/07/2017 no HUB Coworking, no evento organizado pelo grupo Software Development RO sobre a minha experiência no primeiro Startup Weekend de Porto Velho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LucasBRamos/startup-weekend-na-visao-de-um-desenvolvedor.git"
+  },
+  "keywords": [
+    "Startup",
+    "Weekend",
+    "Porto",
+    "Velho",
+    "Software",
+    "Developmento",
+    "RO",
+    "Palestra"
+  ],
+  "author": "Lucas Bernieri Ramos <lucasramos53@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasBRamos/startup-weekend-na-visao-de-um-desenvolvedor/issues"
+  },
+  "homepage": "https://github.com/LucasBRamos/startup-weekend-na-visao-de-um-desenvolvedor#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "laravel-elixir": "^6.0.0-15",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-webpack-official": "^1.0.10"
+  }
+}
